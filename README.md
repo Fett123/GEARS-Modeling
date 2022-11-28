@@ -49,37 +49,8 @@ GEARS (Global parameter Estimation with Automated Regularisation via Sampling) i
 
 <p>Optionally, users can use <a href="https://www.ghostscript.com">Ghostscript</a> for the exportation of figure reports.</p>
 
-## Citations 
+![gear](https://user-images.githubusercontent.com/118581887/204173806-4ae4850a-209d-4ec2-8225-60bc6792c381.png)
 
-<p>If you use this toolbox and publish the results, please cite it with the following references.</p>
 
-<p> Regarding the methodology: <br>
-Pitt, J.A. and Banga, J.R. (2018) Parameter estimation in models of biological oscillators:
-an automated regularised estimation approach. Submitted. </p>
 
-<p> Regarding the software:<br>
-Pitt, J.A. and Banga, J.R. (2018) GEARS - a toolbox for Global parameter Estimation
-with Automated Regularisation via Sampling. <br>
-doi: 10.5281/zenodo.1420465</p>
 
-## Documentation
-
-GEARS' documentation is available in PDF format. Said documentation gives a detailed description of how to install and use the GEARS package with illustrative examples.
-
-## License 
-
-GEARS is distributed under the  <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version 3 (GPL v3)</a>. Copyright 2018 Jake Alan Pitt and Julio R. Banga.
-
-## Acknowledgements 
-
-GEARS was developed at (Bio)Process Engineering group - IIM-CSIC, Spanish National Research Council c/Eduardo Cabello, 6. 36208, Vigo (Spain). This research received funding from the European Union's Horizon 2020 research and
-innovation program under grant agreement No 675585 (MSCA ITN \SyMBioSys") and
-from the Spanish MINECO/FEDER project SYNBIOCONTROL (DPI2017-82896-C2-2-R). Jake Alan Pitt is a Marie Sklodowska-Curie Early Stage Researcher under the supervision of Prof. Julio R. Banga.
-
-## Support
-
-<p> Please check the document and examples carefully before contacting the authors. Please
-pay special attention to section 9 of the documentation. If needed, they can be contacted by
-email at: </p>
-Jake Alan Pitt - jp00191.su@gmail.com <br>
-Julio R. Banga - julio@iim.csic.es.
