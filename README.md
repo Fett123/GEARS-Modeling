@@ -1,7 +1,5 @@
 ## GEARS
 
-<a href="https://doi.org/10.5281/zenodo.1420464"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1420464.svg" alt="DOI"></a>
-
 GEARS (Global parameter Estimation with Automated Regularisation via Sampling) is a Matlab toolbox for parameter estimation in nonlinear dynamic models composed of deterministic ordinary differential equations (ODEs). GEARS is based on the combination of three main strategies: 
 (i) global optimisation (to avoid convergence to local solutions), 
 (ii) reduction of the search space (i.e. tighter bounds on parameters), 
