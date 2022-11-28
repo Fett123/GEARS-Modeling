@@ -1,5 +1,4 @@
 ## GEARS
-by Jake Alan Pitt and Julio R. Banga
 
 <a href="https://doi.org/10.5281/zenodo.1420464"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1420464.svg" alt="DOI"></a>
 
